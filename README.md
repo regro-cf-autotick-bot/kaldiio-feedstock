@@ -1,11 +1,11 @@
-About kaldiio
-=============
+About kaldiio-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kaldiio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/nttcslab-sp/kaldiio
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kaldiio-feedstock/blob/main/LICENSE.txt)
 
 Summary: Kaldi-ark loading and writing module
 
