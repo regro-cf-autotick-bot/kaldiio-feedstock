@@ -1,5 +1,5 @@
 {% set name = "kaldiio" %}
-{% set version = "2.17.2" %}
+{% set version = "2.18.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/nttcslab-sp/kaldiio/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: f3ddbb0ccf5d59f71322f1575e45bd8a23490d0ed58d8bc1ec428fb5f0c7a93e
+  sha256: 91f41fad47be88d7435c11a28d8c619d89063f5435ec46eeb6ada26d9f5540c6
 
 build:
   noarch: python
